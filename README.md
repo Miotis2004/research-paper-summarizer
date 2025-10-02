@@ -1,7 +1,7 @@
 # research-paper-summarizer
 
 # Create venv (recommended)
-python -m venv venv
+py -3.12 -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 
